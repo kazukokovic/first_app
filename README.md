@@ -2,4 +2,4 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Kazukokovic.sl](http://163.44.148.101/).
+by [Kazukokovic.s](http://163.44.148.101/).
